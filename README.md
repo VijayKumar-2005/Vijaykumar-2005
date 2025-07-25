@@ -2,7 +2,7 @@
 Hi, I’m VijayKumar Pandian 👋<br>
 Passionate full‑stack mobile and game developer with a flair for creative, interactive experiences. With intermediate expertise in Flutter, Kotlin, Java, and Python, I’ve built AR‑powered furniture apps, e‑commerce platforms, chat applications, and created Dashboards using power BI and Tableau.<br><br>
 📅 currently building a open-world Multiplayer RPG game using Unity and Photon.<br>
-🔭 I had exploring GenKit‑powered Flutter chatbots and refining AR house‑decoration experiences<br>
+🔭 I have experience exploring GenKit‑powered Flutter chatbots and refining AR house‑decoration experiences<br>
 🌱 Deepening my skills in Power BI, Tableau, Qlik and expanding into data analytics<br>
 👾 Anime aficionado (Big Three fan) — I bring the same energy and attention to detail from my favorite stories into every project<br>
 💬 Always happy to collaborate, brainstorm algorithms, or discuss game design — let’s connect!<br><br>
