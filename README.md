@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m Vijaykumar Pandian — a data analytics enthusiast and versatile developer with hands-on experience in Power BI, Tableau, and Python. I enjoy turning complex data into clear insights and building efficient tools using Java, C#, and Dart. My projects range from retail sales dashboards to interactive HR analytics apps, showcasing my passion for data-driven development and clean, impactful design.<br><br>
+Hi, I’m VijayKumar Pandian 👋
+Passionate full‑stack mobile and game developer with a flair for creative, interactive experiences. With intermediate expertise in Flutter, Kotlin, Java, and Python, I’ve built AR‑powered furniture apps, e‑commerce platforms, chat applications, and created Dashboards using power BI and Tableau.
+📅 currently building a open-world Multiplayer RPG game using Unity and Photon.
+🔭 I had exploring GenKit‑powered Flutter chatbots and refining AR house‑decoration experiences
+🌱 Deepening my skills in Power BI, Tableau, Qlik and expanding into data analytics
+👾 Anime aficionado (Big Three fan) — I bring the same energy and attention to detail from my favorite stories into every project
+💬 Always happy to collaborate, brainstorm algorithms, or discuss game design — let’s connect!
+
+📫 Reach me at vijaykumarpandian.2005@gmail.com or find me here on GitHub to chat about code, AR, or anime theories!.<br><br>
 
 
 ## 🌐 Socials:
